@@ -1,0 +1,18 @@
+/* .products{ */
+/* display: flex; */
+/* flex-wrap: wrap; */
+/* width:60%; */
+/* background-color: palevioletred; */
+/* gap:50px; */
+/*  */
+/* } */
+/* .prodect{ */
+    /* display:flex; */
+    align-items: center;
+    /* gap:40; */
+    /* justify-content: center; */
+    /* flex-direction:column; */
+    /* width:20%; */
+    /* background-color:paleturquoise; */
+/*      */
+/* } */
